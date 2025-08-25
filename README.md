@@ -1,5 +1,5 @@
 # Benefits of Interventional Applications of the Stroke Heat Risk Grading Prediction Model: An Integrated Modeling Study 
-Code used for Zhang et al.  [Manuscript in review at Nature Communications]
+Code used for Zhang et al. [Manuscript Title: Benefits of Interventional Applications of the Stroke Heat Risk Grading Prediction Model: An Integrated Modeling Study]
 
 ## Contents
 - [Overview](#overview)
