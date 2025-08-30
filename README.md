@@ -1,5 +1,5 @@
 # Benefits of Interventional Applications of the Stroke Heat Risk Grading Prediction Model: An Integrated Modeling Study 
-Code used for Zhang et al.  [Manuscript in review at Nature Communications]
+Code used for Zhang et al.  [Manuscript Title: Benefits of Interventional Applications of the Stroke Heat Risk Grading Prediction Model: An Integrated Modeling Study]
 
 ## Contents
 - [Overview](#overview)
@@ -9,11 +9,11 @@ Code used for Zhang et al.  [Manuscript in review at Nature Communications]
 - [Instructions for Use](#instructions-for-use)
 
 ## Overview
-This file provides a [sample of the code](code/model.R) used in Zhang et al.  [Manuscript in review at Nature Communications]. This code is intended for transparency and reproducibility and is not able to run.
+This file provides a [sample of the code](code/model.R) used in Zhang et al.  [Manuscript Title: Benefits of Interventional Applications of the Stroke Heat Risk Grading Prediction Model: An Integrated Modeling Study]. This code is intended for transparency and reproducibility and is not able to run.
 
-This project uses dataset that involves daily and county-level information on stroke mortality, air pollution and meteorological exposure during 2013 and 2022 in 304 Chinese counties.
+This project utilized daily, county-level data on stroke mortality, air pollution, and meteorological exposures from 2013 to 2022 across 304 counties in China.
 
-This project also include [data1](data/data1.xlsx) and [data2](data/data2.xlsx). [Data1](data/data1.xlsx) was selected from a sub-dataset spanning the period from 2013 to 2018.  A two-stage time series analytical approach was utilized to examine the association between daily relative temperature and mortality risk. For validation, [data2](data/data2.xlsx) from 2019 to 2022 were selected as the evaluation set. Both [data1](data/data1.xlsx) and [data2](data/data2.xlsx) are sample data, rather than original datasets.
+This project also included processed [data1](data/data1.xlsx) and [data2](data/data2.xlsx). [Data1](data/data1.xlsx) was selected from a sub-dataset spanning the period from 2013 to 2018.  A two-stage time series analytical approach was utilized to examine the association between daily relative temperature and mortality risk. For validation, [data2](data/data2.xlsx) from 2019 to 2022 were selected as the evaluation dataset. Both [data1](data/data1.xlsx) and [data2](data/data2.xlsx) represent processed sample data rather than original datasets.
 
 Please contact Tiantian Li (litiantian@nieh.chinacdc.cn) with any questions about this code.
 
